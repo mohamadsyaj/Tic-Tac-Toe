@@ -77,8 +77,9 @@ Theme switch (light / dark/dynamic color)
 
 Instrumented UI tests with Espresso
 
-📝 License
-Released under the MIT License – free to use, modify, and share.
+License
+© 2025 Mohamad Syaj. All Rights Reserved.
+This code is provided for personal or educational use only. You may not sell, distribute, publish, or incorporate any portion of it into commercial products without the author's explicit written permission.
 
 Author
 Mohamad Syaj – feel free to open issues or PRs!
