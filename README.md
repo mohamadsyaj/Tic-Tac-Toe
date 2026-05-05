@@ -66,6 +66,8 @@ Alternate symbols/emojis: Change currentSymbol, flip, and button text.
 Sound or haptic feedback,	add to each button’s setOnClickListener.
 Victory animations	trigger in Statues () after a win.
 
+<img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/19d05f06-22b8-485f-b49d-d17b54afdffe" />
+
 Roadmap
 Highlight winning line with color/animation
 
